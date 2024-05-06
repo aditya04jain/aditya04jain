@@ -2,7 +2,7 @@
 
 ## About Me
 
-🎓 studying computer science and mathematics @ columbia (class of '26)
+🎓 studying computer science and econ @ columbia (class of '26)
 
 🌱 currently learning systems programming in C
 
